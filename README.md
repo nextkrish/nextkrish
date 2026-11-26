@@ -31,7 +31,7 @@
 <p>
   <a href="https://www.linkedin.com/in/nextkrish/">LinkedIn</a>
   ·
-  <a href="https://www.instagram.com/nextkrish/">Instagram</a>
+  <a href="https://www.instagram.com/nexxtkrish/">Instagram</a>
 </p>
 
 ---
